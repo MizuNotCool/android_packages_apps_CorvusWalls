@@ -5,6 +5,18 @@
 -->
 <resources>
     <array name="wallpapers" translatable="false">
+        <item>wallpaper_66</item>
+        <item>wallpaper_65</item>
+        <item>wallpaper_64</item>
+        <item>wallpaper_63</item>
+        <item>wallpaper_62</item>
+        <item>wallpaper_61</item>
+        <item>wallpaper_60</item>
+        <item>wallpaper_59</item>
+        <item>wallpaper_58</item>
+        <item>wallpaper_57</item>
+        <item>wallpaper_56</item>
+        <item>wallpaper_55</item>
         <item>wallpaper_54</item>
         <item>wallpaper_53</item>
         <item>wallpaper_52</item>
