@@ -5,6 +5,44 @@
 -->
 <resources>
     <array name="wallpapers" translatable="false">
+        <item>wallpaper_104</item>
+        <item>wallpaper_103</item>
+        <item>wallpaper_102</item>
+        <item>wallpaper_101</item>
+        <item>wallpaper_100</item>
+        <item>wallpaper_99</item>
+        <item>wallpaper_98</item>
+        <item>wallpaper_97</item>
+        <item>wallpaper_96</item>
+        <item>wallpaper_95</item>
+        <item>wallpaper_94</item>
+        <item>wallpaper_93</item>
+        <item>wallpaper_92</item>
+        <item>wallpaper_91</item>
+        <item>wallpaper_90</item>
+        <item>wallpaper_89</item>
+        <item>wallpaper_88</item>
+        <item>wallpaper_87</item>
+        <item>wallpaper_86</item>
+        <item>wallpaper_85</item>
+        <item>wallpaper_84</item>
+        <item>wallpaper_83</item>
+        <item>wallpaper_82</item>
+        <item>wallpaper_81</item>
+        <item>wallpaper_80</item>
+        <item>wallpaper_79</item>
+        <item>wallpaper_78</item>
+        <item>wallpaper_77</item>
+        <item>wallpaper_76</item>
+        <item>wallpaper_75</item>
+        <item>wallpaper_74</item>
+        <item>wallpaper_73</item>
+        <item>wallpaper_72</item>
+        <item>wallpaper_71</item>
+        <item>wallpaper_70</item>
+        <item>wallpaper_69</item>
+        <item>wallpaper_68</item>
+        <item>wallpaper_67</item>
         <item>wallpaper_66</item>
         <item>wallpaper_65</item>
         <item>wallpaper_64</item>
