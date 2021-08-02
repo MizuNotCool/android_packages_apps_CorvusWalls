@@ -4,7 +4,6 @@
 
 android_app {
     name: "CorvusWalls",
-    system_ext_specific: true,
     sdk_version: "current",
     aaptflags: ["--auto-add-overlay"],
 }
