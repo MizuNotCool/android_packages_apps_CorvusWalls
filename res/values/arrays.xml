@@ -5,6 +5,57 @@
 -->
 <resources>
     <array name="wallpapers" translatable="false">
+        <item>wallpaper_167</item>
+        <item>wallpaper_166</item>
+        <item>wallpaper_165</item>
+        <item>wallpaper_164</item>
+        <item>wallpaper_163</item>
+        <item>wallpaper_162</item>
+        <item>wallpaper_161</item>
+        <item>wallpaper_160</item>
+        <item>wallpaper_159</item>
+        <item>wallpaper_158</item>
+        <item>wallpaper_157</item>
+        <item>wallpaper_156</item>
+        <item>wallpaper_155</item>
+        <item>wallpaper_154</item>
+        <item>wallpaper_153</item>
+        <item>wallpaper_152</item>
+        <item>wallpaper_151</item>
+        <item>wallpaper_150</item>
+        <item>wallpaper_149</item>
+        <item>wallpaper_148</item>
+        <item>wallpaper_147</item>
+        <item>wallpaper_146</item>
+        <item>wallpaper_145</item>
+        <item>wallpaper_144</item>
+        <item>wallpaper_143</item>
+        <item>wallpaper_142</item>
+        <item>wallpaper_141</item>
+        <item>wallpaper_140</item>
+        <item>wallpaper_139</item>
+        <item>wallpaper_138</item>
+        <item>wallpaper_137</item>
+        <item>wallpaper_136</item>
+        <item>wallpaper_135</item>
+        <item>wallpaper_134</item>
+        <item>wallpaper_133</item>
+        <item>wallpaper_132</item>
+        <item>wallpaper_131</item>
+        <item>wallpaper_130</item>
+        <item>wallpaper_129</item>
+        <item>wallpaper_128</item>
+        <item>wallpaper_127</item>
+        <item>wallpaper_126</item>
+        <item>wallpaper_125</item>
+        <item>wallpaper_124</item>
+        <item>wallpaper_123</item>
+        <item>wallpaper_122</item>
+        <item>wallpaper_121</item>
+        <item>wallpaper_120</item>
+        <item>wallpaper_119</item>
+        <item>wallpaper_118</item>
+        <item>wallpaper_117</item>
         <item>wallpaper_116</item>
         <item>wallpaper_115</item>
         <item>wallpaper_114</item>
@@ -15,18 +66,23 @@
         <item>wallpaper_109</item>
         <item>wallpaper_108</item>
         <item>wallpaper_107</item>
-        <item>wallpaper_104</item>
+        <item>wallpaper_106</item>
         <item>wallpaper_105</item>
+        <item>wallpaper_104</item>
         <item>wallpaper_103</item>
         <item>wallpaper_102</item>
         <item>wallpaper_101</item>
         <item>wallpaper_100</item>
+        <item>wallpaper_99</item>
         <item>wallpaper_98</item>
         <item>wallpaper_97</item>
         <item>wallpaper_96</item>
         <item>wallpaper_95</item>
         <item>wallpaper_94</item>
         <item>wallpaper_93</item>
+        <item>wallpaper_92</item>
+        <item>wallpaper_91</item>
+        <item>wallpaper_90</item>
         <item>wallpaper_89</item>
         <item>wallpaper_88</item>
         <item>wallpaper_87</item>
@@ -37,6 +93,7 @@
         <item>wallpaper_82</item>
         <item>wallpaper_81</item>
         <item>wallpaper_80</item>
+        <item>wallpaper_79</item>
         <item>wallpaper_78</item>
         <item>wallpaper_77</item>
         <item>wallpaper_76</item>
@@ -45,6 +102,7 @@
         <item>wallpaper_73</item>
         <item>wallpaper_72</item>
         <item>wallpaper_71</item>
+        <item>wallpaper_70</item>
         <item>wallpaper_69</item>
         <item>wallpaper_68</item>
         <item>wallpaper_67</item>
@@ -64,7 +122,12 @@
         <item>wallpaper_53</item>
         <item>wallpaper_52</item>
         <item>wallpaper_51</item>
+        <item>wallpaper_50</item>
+        <item>wallpaper_49</item>
         <item>wallpaper_48</item>
+        <item>wallpaper_47</item>
+        <item>wallpaper_46</item>
+        <item>wallpaper_45</item>
         <item>wallpaper_44</item>
         <item>wallpaper_43</item>
         <item>wallpaper_42</item>
@@ -79,12 +142,24 @@
         <item>wallpaper_33</item>
         <item>wallpaper_32</item>
         <item>wallpaper_31</item>
+        <item>wallpaper_30</item>
+        <item>wallpaper_29</item>
+        <item>wallpaper_28</item>
+        <item>wallpaper_27</item>
+        <item>wallpaper_26</item>
+        <item>wallpaper_25</item>
         <item>wallpaper_24</item>
         <item>wallpaper_23</item>
         <item>wallpaper_22</item>
         <item>wallpaper_21</item>
+        <item>wallpaper_20</item>
+        <item>wallpaper_19</item>
         <item>wallpaper_18</item>
+        <item>wallpaper_17</item>
         <item>wallpaper_16</item>
+        <item>wallpaper_15</item>
+        <item>wallpaper_14</item>
+        <item>wallpaper_13</item>
         <item>wallpaper_12</item>
         <item>wallpaper_11</item>
         <item>wallpaper_10</item>
@@ -92,6 +167,7 @@
         <item>wallpaper_8</item>
         <item>wallpaper_7</item>
         <item>wallpaper_6</item>
+        <item>wallpaper_5</item>
         <item>wallpaper_4</item>
         <item>wallpaper_3</item>
         <item>wallpaper_2</item>
